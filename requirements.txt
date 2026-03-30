@@ -1,0 +1,14 @@
+pandas==2.2.3
+wikipedia_api==0.8.1
+wikipedia==1.4.0
+sparqlwrapper==2.0.0
+flair==0.14.0
+seaborn
+tldextract==5.3.0
+umap-learn
+hdbscan
+plotly
+dash
+googletrans==3.1.0a0
+diskcache==5.6.3
+vllm==0.10.2
