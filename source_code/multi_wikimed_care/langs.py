@@ -1,0 +1,1 @@
+use_case_langs = ['en', 'tr', 'zh', 'de', 'it']
